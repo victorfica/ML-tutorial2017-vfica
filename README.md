@@ -17,7 +17,7 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 # Obtaining the Tutorial Material
 
-If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/rasbt/pydata-chicago2016-ml-tutorials` and fetch updates via `pull origin master`
+If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/victorfica/ML-tutorial2017-vfica` and fetch updates via `pull origin master`
 
 If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository.
 
