@@ -5,9 +5,9 @@
 
 ![](images/logo.png)
 
-This tutorial will teach you the basics of scikit-learn. I will give you a brief overview of the basic concepts of classification and regression analysis, how to build powerful predictive models from labeled data. Although it's not a requirement for attending this tutorial, I highly recommend you to check out the accompanying GitHub repository at https://github.com/rasbt/pydata-chicago2016-ml-tutorial 1-2 days before the tutorial. During the session, we will not only talk about scikit-learn, but we will also go over some live code examples to get the knack of scikit-learn's API.   
+## En progreso...
 
-If you have any questions about the tutorial, please don't hesitate to contact me. You can either open an "issue" on GitHub or reach me via email at mail_at_sebastianraschka.com. I am looking forward to meeting you soon!
+Este tutorial abordara conceptos basicos de Aprendizaje Automatico en conjunto con la libreria scikit-learn. En general nos centraremos en algunos aspectos basicos del Aprendizaje Supervisado y algunas aplicaciones con scikit-learn. No es obligatorio para asistir al tutorial, pero recomiendo revisar el reporitorio Github en https://github.com/victorfica/ML-tutorial2017-vfica donde dispondre del material utilizado.   
 
 ---
 
@@ -15,11 +15,11 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 
 
-# Obtaining the Tutorial Material
+# Obteniendo el material del tutorial
 
-If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/victorfica/ML-tutorial2017-vfica` and fetch updates via `pull origin master`
+Si ya poseen una cuenta GitHub, probablemente la forma mas conveniente de obtener el material del tutorial es clonando este repositorio GitHub via     `git clone https://github.com/victorfica/ML-tutorial2017-vfica` y obtener las actualizaciones via `pull origin master`
 
-If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository.
+Si no poseen una cuenta Github, pueden descargar el repositorio como un archivo .zip en la misma pagina web del repositorio. 
 
 
 # Instalación y requerimientos
