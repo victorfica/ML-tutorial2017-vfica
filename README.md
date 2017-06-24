@@ -11,7 +11,7 @@ Este tutorial abordara conceptos basicos de Aprendizaje Automatico en conjunto c
 
 ---
 
-Pueden ver el codigo del cuaderno jupyter [aqui](http://nbviewer.jupyter.org/github/victorfica/ML-tutorial2017-vfica/blob/master/notebook/ML-intro-VF.ipynb)
+Pueden ver el codigo del cuaderno jupyter [aqui](https://github.com/victorfica/ML-tutorial2017-vfica/blob/master/notebook/ML-intro-VF.ipynb)
 
 
 
