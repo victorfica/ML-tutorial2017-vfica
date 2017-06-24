@@ -5,13 +5,13 @@
 
 ![](images/logo.png)
 
-## En progreso...
+
 
 Este tutorial abordara conceptos basicos de Aprendizaje Automatico en conjunto con la libreria scikit-learn. En general nos centraremos en algunos aspectos basicos del Aprendizaje Supervisado y algunas aplicaciones con scikit-learn. No es obligatorio para asistir al tutorial, pero recomiendo revisar el reporitorio Github en https://github.com/victorfica/ML-tutorial2017-vfica donde dispondre del material utilizado.   
 
 ---
 
-# Schedule
+Pueden ver el codigo del cuaderno jupyter [aqui](http://nbviewer.jupyter.org/github/victorfica/ML-tutorial2017-vfica/blob/master/notebook/ML-intro-VF.ipynb)
 
 
 
@@ -43,3 +43,4 @@ Una vez instalado, el siguiente comando deberia instalar todos los paquetes requ
 ```
 $ conda install numpy scipy matplotlib scikit-learn notebook seaborn
 ```
+ 
